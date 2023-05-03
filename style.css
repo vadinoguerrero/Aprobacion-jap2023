@@ -1,0 +1,114 @@
+
+html {
+    height: 100%;
+    background: linear-gradient(to top left, #a85a00e3, #790000e7);
+  }
+  h1 {
+    font-family: sans-serif;
+    font-size: 50px;
+    line-height: 1.3;
+    width: 100%;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 2px #000000;
+  }
+  .empezar{
+      background: linear-gradient(90deg, rgba(72,97,0,1) 0%, rgba(0,104,112,1) 100%);
+      position:absolute;
+      top:30vh;
+      left:40vw;
+      height:10vh;
+      width:20vw;
+      border-radius: 15px;
+      border: 1px solid transparent;
+      box-shadow: 0.5vh 0.5vh 1vh 0 rgba(0,0,0,0.77);
+      cursor:pointer;
+      user-select: none;
+  }
+  .container{
+      background: linear-gradient(90deg, rgba(72,97,0,1) 0%, rgba(0,104,112,1) 100%);
+      position:absolute;
+      top:25vh;
+      left:25vw;
+      height:30vh;
+      width:50vw;
+      border-radius: 15px;
+    border: 1px solid transparent;
+      box-shadow: 0.5vh 0.5vh 1vh 0 rgba(0,0,0,0.77);
+    }
+  .nro{
+    position: absolute;
+    top:25vh;
+    left:47vw;
+    font-family: sans-serif;
+    font-size: 15px;
+    color:whitesmoke
+    }
+  .texto{
+    position:absolute;
+    top:1vh;
+    font-family: sans-serif;
+    font-size: 25px;
+    width:100%;
+    text-align: center;
+    color:white;
+  }
+  .renglon{
+    position:absolute;
+    top:10vh;
+    left:5vw;
+    width:80%;
+    font-family: sans-serif;
+    background-color: transparent;
+    text-align: center;
+    font-size: 25px;
+    color:whitesmoke;
+    outline:none;
+    border:none !important
+  }
+  .hidden{
+    display: none !important
+  }
+  .copyright{
+    font-family: sans-serif;
+    color:whitesmoke;
+    font-size: 20px;
+    position: absolute;
+    top:97vh;
+    left: 87vw;
+    text-shadow: 1px 1px 4px #000000;
+  }
+  .material-icons{
+    position:absolute;
+    top:20vh;
+    font-size: 40px !important;
+    width:100%;
+    text-align: center;
+    color:white;
+    cursor:pointer;
+  }
+  .promedio, .ingles, .comptrans, .evidencias{
+    font-family: sans-serif;
+    color:whitesmoke;
+    font-size: 35px;
+  }
+  .promedio{
+    position:absolute;
+    top:17vh;
+    left:10vw;
+  }
+  .evidencias{
+    position:absolute;
+    top:24vh;
+    left:10vw;
+  }
+  .ingles{
+    position:absolute;
+    top:31vh;
+    left:10vw;
+  }
+  .comptrans{
+    position:absolute;
+    top:38vh;
+    left:10vw;
+  }
